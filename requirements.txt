@@ -2,3 +2,5 @@ streamlit
 akshare
 pandas
 numpy
+python-dotenv
+openai
